@@ -7,4 +7,5 @@ namespace Final_Project_Civ_Mayor_Civilization.Models
         public int DefensePower { get; private set; } 
 
         // also need hitpoints for units both enemy and allys. 
-        
+    }
+} 

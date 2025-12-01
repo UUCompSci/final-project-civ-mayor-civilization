@@ -14,3 +14,5 @@ public class WorldDbContext : DbContext
         modelBuilder.Entity<Plant>().ToTable("Plants");
     }
 }
+
+// need to change the world context to include all the new objects and get rid of the plants and animals. 

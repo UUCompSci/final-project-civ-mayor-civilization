@@ -2,4 +2,4 @@
 // cannot build units if you do not have enough population capacity. 
 // buildings need hitpoints and can be attacked by enemy units.
 namespace Final_Project_Civ_Mayor_Civilization.Models
-{
+{} 

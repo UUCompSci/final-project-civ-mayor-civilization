@@ -85,3 +85,5 @@ class Program
 // Units are the things that can move and perform actions. Units make buildings. Buildings make Units. 
 // Units have tasks that they need to do. Buildings have 1 unit per turn depending on if you can afford it. 
 // Need enemy units such as barbarians that attack your units and buildings. 
+
+// will be getting rid of animals and plants eventually.
