@@ -9,3 +9,5 @@ namespace Final_Project_Civ_Mayor_Civilization.Models
         // also need hitpoints for units both enemy and allys. 
     }
 } 
+
+// You can get rid of what is here and make your own version of it i just put all this here as a placeholder. 
