@@ -1,9 +1,4 @@
 
-// Each type should have unique behaviors in Update and interactions with other types
-// Implement saving/loading for all new types in WorldPersistence 
-// Units are the things that can move and perform actions. Units make buildings. Buildings make Units. 
-// Units have tasks that they need to do. Buildings have 1 unit per turn depending on if you can afford it. 
-// Need enemy units such as barbarians that attack your units and buildings. 
 
 
 

@@ -4,3 +4,5 @@
 namespace Final_Project_Civ_Mayor_Civilization.Models
 {} 
 // // You can get rid of what is here and make your own version of it i just put all this here as a placeholder. 
+
+
