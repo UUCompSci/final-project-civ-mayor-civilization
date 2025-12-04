@@ -1,7 +1,13 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": []
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/williamtrittvenable/Documents/File Archive/College Folder/Semesters/Senior Semester 1/Programming in C#/final-project-civ-mayor-civilization/MyProject/Models",
+      "program": "/Users/williamtrittvenable/Documents/File Archive/College Folder/Semesters/Senior Semester 1/Programming in C#/final-project-civ-mayor-civilization/MyProject/Models/build/Debug/outDebug"
+    }
+  ]
 }

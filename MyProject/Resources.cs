@@ -1,4 +1,4 @@
-using System;
+// Resources.csusing System;
 
 public class Resource : WorldObject
 {

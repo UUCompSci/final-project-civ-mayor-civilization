@@ -1,8 +1,4 @@
-﻿
-
-
-
-// Removed the plants and animals and added buildings, units, resources, and terrain features.
+﻿// Removed the plants and animals and added buildings, units, resources, and terrain features.
 
 using System;
 using System.Collections.Generic;
