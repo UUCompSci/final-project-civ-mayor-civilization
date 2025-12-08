@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/williamtrittvenable/Documents/File Archive/College Folder/Semesters/Senior Semester 1/Programming in C#/final-project-civ-mayor-civilization/MyProject/Models",
-      "program": "/Users/williamtrittvenable/Documents/File Archive/College Folder/Semesters/Senior Semester 1/Programming in C#/final-project-civ-mayor-civilization/MyProject/Models/build/Debug/outDebug"
+      "cwd": "/Users/williamtrittvenable/Documents/File Archive/College Folder/Semesters/Senior Semester 1/Programming in C#/final-project-civ-mayor-civilization",
+      "program": "/Users/williamtrittvenable/Documents/File Archive/College Folder/Semesters/Senior Semester 1/Programming in C#/final-project-civ-mayor-civilization/build/Debug/outDebug"
     }
   ]
 }
